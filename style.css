@@ -1,0 +1,66 @@
+body {
+}
+
+#banner {
+width: 100%;
+margin: auto;
+}
+
+.principal {
+background: #ffb6c1;
+padding: 5px;
+}
+
+.title{
+	padding-left: 20px;
+}
+
+p {
+	text-align: center
+}
+
+#missao {
+font-size:20px
+}
+
+em strong {
+	color: #1E90FF;
+}
+
+.itens {
+	font-style: italic
+}
+
+
+.atividades {
+	background: #FFFFFF;
+	padding: 30px;
+}
+
+.cronograma {
+	background: #FFFFFF;
+	padding: 30px;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+h4 {
+	text-align: center;
+}
+
+.jardim {
+
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 25%;
+	margin-right: 20%;
+}
+	
