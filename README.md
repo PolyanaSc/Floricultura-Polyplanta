@@ -1,1 +1,1 @@
-#   Trabalho p/ pensamento computacional.
+#   Trabalho p/ pensamento computacional
